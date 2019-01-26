@@ -1,0 +1,34 @@
+/*
+@font-face 는 D2Coding 이라는 글꼴을 클라이언트의 컴퓨터에
+설치할 필요 없이 서버 컴퓨터의 파일을 올리는 기능을 합니다.
+-Starlight-
+*/
+@font-face {
+	font-family:'D2Coding';
+	src:local('D2Coding'),
+	    local('D2CodingBold'),
+	    url('D2Coding.eot'),
+		url('D2CodingBold.eot'),
+		url('D2Coding.woff') format('woff'),
+		url('D2Coding.woff') format('woff'),
+		url('D2Coding.ttf') format('truetype'),
+		url('D2CodingBold.ttf') format('truetype');
+}
+/*
+kkutu_bulletin.html 에서 가져온 코드입니다.
+*/
+body{
+	font-family: D2Coding, 맑은 고딕, 돋움, Arial;
+}
+li{
+	font-size: 13px;
+}
+.even {
+	background-color: #D2E1FF;
+	}
+.odd {
+	background-color: #FFE1E6;
+}
+.btn btn-default dropdown-toggle{
+	background-color: #FFD9E4;
+}

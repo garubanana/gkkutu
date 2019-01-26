@@ -1,0 +1,476 @@
+This is an error log file of the game server.
+You may use like `tail -f KKUTU_ERROR.log` to watch this.
+:8496 [2018-5-13 08:12:36] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-13 08:12:55] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-13 08:14:45] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-14 19:18:54] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-14 19:22:01] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-16 21:32:23] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-17 18:46:13] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-17 18:47:41] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-20 04:00:24] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-23 13:43:52] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-23 13:44:55] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-25 18:30:12] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-27 16:20:14] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-5-29 19:34:27] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-3 09:51:54] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-3 09:59:29] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-3 10:00:16] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-3 10:01:42] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-13 17:03:48] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-13 17:06:21] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-13 17:15:16] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-16 14:23:01] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-19 09:14:46] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-19 09:19:37] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-6-19 17:14:27] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\KKuTuSerVer\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at Connection.emit (events.js:127:13)
+    at Socket.<anonymous> (C:\KKuTuSerVer\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
+    at Socket.emit (events.js:127:13):8496 [2018-7-2 10:17:13] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-3 21:32:07] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-3 21:35:19] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-8 17:38:39] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-8 17:42:33] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-8 17:51:12] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-8 21:11:41] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-11 21:51:49] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-14 15:29:25] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-22 12:06:48] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-23 14:59:24] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-23 21:18:30] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-27 21:12:36] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-28 09:38:35] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-30 09:05:34] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-30 09:09:33] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-30 09:44:48] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12):8496 [2018-7-30 09:46:20] ERROR: TypeError: Cannot read property '_id' of null
+TypeError: Cannot read property '_id' of null
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:62:27
+    at exports.Tail.go (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\lizard.js:43:16)
+    at C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\Game\games\jaqwi.js:249:21
+    at callback (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:316:13)
+    at Result.preCB (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\sub\collection.js:298:6)
+    at Result.Query.handleReadyForQuery (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\query.js:144:10)
+    at Connection.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\client.js:180:19)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Socket.<anonymous> (C:\Users\garubanana\Documents\KKuTuServ2r\Server\lib\node_modules\pg\lib\connection.js:133:12)
